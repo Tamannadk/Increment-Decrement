@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+#incr {
+  background-color: blue;
+  color: aquamarine;
+  margin-right: 20px;
+  padding: 10px;
+  border-radius: 5px;
+}
+#decr {
+  background-color: green;
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+}
